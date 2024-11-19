@@ -1,6 +1,6 @@
 {
-    "name": "pdf-text-reader",
-    "version": "5.1.0",
+    "name": "@avodah/pdf-text-reader",
+    "version": "5.1.1",
     "description": "Dead simple pdf text reader",
     "keywords": [
         "pdf",
@@ -39,7 +39,7 @@
         "test:types": "tsc --noEmit"
     },
     "dependencies": {
-        "pdfjs-dist": "4.2.67"
+        "pdfjs-dist": "^4.8.69"
     },
     "devDependencies": {
         "@augment-vir/node-js": "^28.0.0",

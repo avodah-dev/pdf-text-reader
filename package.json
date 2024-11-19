@@ -9,13 +9,13 @@
         "pdf-text-reader",
         "reader"
     ],
-    "homepage": "https://github.com/electrovir/pdf-text-reader",
+    "homepage": "https://github.com/avodah-dev/pdf-text-reader",
     "bugs": {
-        "url": "https://github.com/electrovir/pdf-text-reader/issues"
+        "url": "https://github.com/avodah-dev/pdf-text-reader/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/electrovir/pdf-text-reader"
+        "url": "https://github.com/avodah-dev/pdf-text-reader"
     },
     "license": "(MIT or CC0 1.0)",
     "author": {
